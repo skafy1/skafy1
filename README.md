@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Меня зовут Максим, на данный момент мне 17 лет. Изучаю фронтенд разработку
 <!--
 **skafy1/skafy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
